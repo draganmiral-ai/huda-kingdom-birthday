@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Gold crown">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2D890"/>
+      <stop offset="0.55" stop-color="#D7AE57"/>
+      <stop offset="1" stop-color="#B8863A"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gold)"
+        d="M9 47 L6.5 21 C6.4 20.2 7.3 19.7 8 20.2 L20.5 30.5 L30.6 13.2 C31.2 12.2 32.8 12.2 33.4 13.2 L43.5 30.5 L56 20.2 C56.7 19.7 57.6 20.2 57.5 21 L55 47 Z"/>
+  <rect x="9" y="49" width="46" height="8" rx="2.4" fill="url(#gold)"/>
+  <circle cx="6.5" cy="19" r="3.1" fill="#F2D890"/>
+  <circle cx="32" cy="11" r="3.1" fill="#F2D890"/>
+  <circle cx="57.5" cy="19" r="3.1" fill="#F2D890"/>
+  <circle cx="21" cy="40" r="2.2" fill="#541D32" opacity="0.55"/>
+  <circle cx="32" cy="40" r="2.2" fill="#541D32" opacity="0.55"/>
+  <circle cx="43" cy="40" r="2.2" fill="#541D32" opacity="0.55"/>
+</svg>
