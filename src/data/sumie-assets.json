@@ -1,0 +1,177 @@
+{
+  "jordan": {
+    "src": "/assets/sumie/jordan-960.webp",
+    "srcSet": "/assets/sumie/jordan-480.webp 480w, /assets/sumie/jordan-960.webp 960w",
+    "width": 1118,
+    "height": 1600,
+    "source": "representing jordan.JPG"
+  },
+  "portrait": {
+    "src": "/assets/sumie/portrait-960.webp",
+    "srcSet": "/assets/sumie/portrait-480.webp 480w, /assets/sumie/portrait-960.webp 960w",
+    "width": 1096,
+    "height": 1600,
+    "source": "insta 1.JPG"
+  },
+  "insta-1": {
+    "src": "/assets/sumie/insta-1-960.webp",
+    "srcSet": "/assets/sumie/insta-1-480.webp 480w, /assets/sumie/insta-1-960.webp 960w",
+    "width": 1096,
+    "height": 1600,
+    "source": "insta 1.JPG"
+  },
+  "insta-2": {
+    "src": "/assets/sumie/insta-2-960.webp",
+    "srcSet": "/assets/sumie/insta-2-480.webp 480w, /assets/sumie/insta-2-960.webp 960w",
+    "width": 1320,
+    "height": 2035,
+    "source": "insta2.jpg"
+  },
+  "insta-3": {
+    "src": "/assets/sumie/insta-3-960.webp",
+    "srcSet": "/assets/sumie/insta-3-480.webp 480w, /assets/sumie/insta-3-960.webp 960w",
+    "width": 1320,
+    "height": 1387,
+    "source": "insta3.jpg"
+  },
+  "insta-4": {
+    "src": "/assets/sumie/insta-4-960.webp",
+    "srcSet": "/assets/sumie/insta-4-480.webp 480w, /assets/sumie/insta-4-960.webp 960w",
+    "width": 1320,
+    "height": 1449,
+    "source": "insta4.jpg"
+  },
+  "resume": {
+    "src": "/assets/sumie/resume-960.webp",
+    "srcSet": "/assets/sumie/resume-480.webp 480w, /assets/sumie/resume-960.webp 960w",
+    "width": 1181,
+    "height": 1538,
+    "source": "resume photo.JPG"
+  },
+  "queens": {
+    "src": "/assets/sumie/queens-1440.webp",
+    "srcSet": "/assets/sumie/queens-480.webp 480w, /assets/sumie/queens-960.webp 960w, /assets/sumie/queens-1440.webp 1440w",
+    "width": 2610,
+    "height": 3480,
+    "source": "non fasting queens.JPG"
+  },
+  "mitch": {
+    "src": "/assets/sumie/mitch-1440.webp",
+    "srcSet": "/assets/sumie/mitch-480.webp 480w, /assets/sumie/mitch-960.webp 960w, /assets/sumie/mitch-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "mitch and sumie.JPG"
+  },
+  "surprise": {
+    "src": "/assets/sumie/surprise-960.webp",
+    "srcSet": "/assets/sumie/surprise-480.webp 480w, /assets/sumie/surprise-960.webp 960w",
+    "width": 1320,
+    "height": 2346,
+    "source": "still manage to surprise her.JPG"
+  },
+  "goodbye": {
+    "src": "/assets/sumie/goodbye-960.webp",
+    "srcSet": "/assets/sumie/goodbye-480.webp 480w, /assets/sumie/goodbye-960.webp 960w",
+    "width": 1200,
+    "height": 1600,
+    "source": "hudas last day in seaworld.JPG"
+  },
+  "certificate": {
+    "src": "/assets/sumie/certificate-480.webp",
+    "srcSet": "/assets/sumie/certificate-480.webp 480w",
+    "width": 934,
+    "height": 1600,
+    "source": "working 247 and all she gets is certificate.JPG"
+  },
+  "reunion": {
+    "src": "/assets/sumie/reunion-960.webp",
+    "srcSet": "/assets/sumie/reunion-480.webp 480w, /assets/sumie/reunion-960.webp 960w",
+    "width": 1290,
+    "height": 2293,
+    "source": "good all times.JPEG"
+  },
+  "coffee": {
+    "src": "/assets/sumie/coffee-960.webp",
+    "srcSet": "/assets/sumie/coffee-480.webp 480w, /assets/sumie/coffee-960.webp 960w",
+    "width": 1152,
+    "height": 1536,
+    "source": "late night coffee dates.JPEG"
+  },
+  "quiz": {
+    "src": "/assets/sumie/quiz-1440.webp",
+    "srcSet": "/assets/sumie/quiz-480.webp 480w, /assets/sumie/quiz-960.webp 960w, /assets/sumie/quiz-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "quiz night .HEIC"
+  },
+  "mussafah-1": {
+    "src": "/assets/sumie/mussafah-1-1440.webp",
+    "srcSet": "/assets/sumie/mussafah-1-480.webp 480w, /assets/sumie/mussafah-1-960.webp 960w, /assets/sumie/mussafah-1-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "mussafah run- we have looked better then this.JPG"
+  },
+  "mussafah-2": {
+    "src": "/assets/sumie/mussafah-2-1440.webp",
+    "srcSet": "/assets/sumie/mussafah-2-480.webp 480w, /assets/sumie/mussafah-2-960.webp 960w, /assets/sumie/mussafah-2-1440.webp 1440w",
+    "width": 2316,
+    "height": 3088,
+    "source": "mussafah run 2.JPG"
+  },
+  "missing": {
+    "src": "/assets/sumie/missing-1440.webp",
+    "srcSet": "/assets/sumie/missing-480.webp 480w, /assets/sumie/missing-960.webp 960w, /assets/sumie/missing-1440.webp 1440w",
+    "width": 3480,
+    "height": 2610,
+    "source": "mr d is suspiciously missing.JPG"
+  },
+  "glow": {
+    "src": "/assets/sumie/glow-1440.webp",
+    "srcSet": "/assets/sumie/glow-480.webp 480w, /assets/sumie/glow-960.webp 960w, /assets/sumie/glow-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "she does know how to glow up.jpg"
+  },
+  "translation": {
+    "src": "/assets/sumie/translation-1440.webp",
+    "srcSet": "/assets/sumie/translation-480.webp 480w, /assets/sumie/translation-960.webp 960w, /assets/sumie/translation-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "sumie translating for huda.JPG"
+  },
+  "tinder": {
+    "src": "/assets/sumie/tinder-960.webp",
+    "srcSet": "/assets/sumie/tinder-480.webp 480w, /assets/sumie/tinder-960.webp 960w",
+    "width": 1206,
+    "height": 2144,
+    "source": "testing tinder profile.JPG"
+  },
+  "eggplants": {
+    "src": "/assets/sumie/eggplants-1440.webp",
+    "srcSet": "/assets/sumie/eggplants-480.webp 480w, /assets/sumie/eggplants-960.webp 960w, /assets/sumie/eggplants-1440.webp 1440w",
+    "width": 3024,
+    "height": 4032,
+    "source": "sumie with eggplants.HEIC"
+  },
+  "baby-shower": {
+    "src": "/assets/sumie/baby-shower-960.webp",
+    "srcSet": "/assets/sumie/baby-shower-480.webp 480w, /assets/sumie/baby-shower-960.webp 960w",
+    "width": 1152,
+    "height": 1536,
+    "source": "baby shower.JPEG"
+  },
+  "baby-eid": {
+    "src": "/assets/sumie/baby-eid-960.webp",
+    "srcSet": "/assets/sumie/baby-eid-480.webp 480w, /assets/sumie/baby-eid-960.webp 960w",
+    "width": 1200,
+    "height": 1600,
+    "source": "proving she is closest to baby eid.JPG"
+  },
+  "apartment": {
+    "src": "/assets/sumie/apartment-960.webp",
+    "srcSet": "/assets/sumie/apartment-480.webp 480w, /assets/sumie/apartment-960.webp 960w",
+    "width": 1200,
+    "height": 1600,
+    "source": "helped me adjust and looked for appartment in wild west - Khalifa.JPG"
+  }
+}
