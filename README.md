@@ -86,3 +86,9 @@ Every push to the `main` branch then redeploys automatically.
 ---
 
 Made with love by the Royal Council — Naz, Sumie, Mr D & Mitch. 👑
+
+## NON-FASTING QUEENS master archive
+
+The homepage is the permanent five-person friendship archive. `/huda` preserves the original birthday experience; `/sumie` is the House of Futteisha placeholder. Naz, Mitch and Mr D are locked entries with accessible native dialogs. Member configuration lives in `src/data/queens.js`; landing styles are scoped in `src/styles/queens.css`. The supplied group photograph is copied unchanged to `public/assets/queens-group.png`. No seasonal name switching is implemented. Original root section bookmarks continue to open Huda.
+
+Validated at 375, 430, 768 and 1440 pixels, including uncropped image geometry, no horizontal overflow, active navigation and locked dialogs with Escape dismissal.
