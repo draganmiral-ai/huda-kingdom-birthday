@@ -46,7 +46,7 @@ export default function Queens({ placeholder = false, missing = false }) {
               <article className={`queens-portal queens-portal--${member.themeClass}`} key={member.name}>
                 <div className="queens-portal-top"><span>0{index + 1}</span><span className="queens-status">{member.status === 'LOCKED' ? '◇ ' : '✦ '}{member.status}</span></div>
                 <h3>{member.name}</h3><p>{member.subtitle}</p>
-                {member.route ? <a href={member.route}>{member.buttonLabel}<span aria-hidden="true">↗</span></a> : <button onClick={() => setSelected(member)} aria-haspopup="dialog" aria-label={`Inspect ${member.name} locked archive`}>FILE PENDING<span aria-hidden="true">＋</span></button>}
+                {member.route ? <a href={member.route}>{member.buttonLabel}<span aria-hidden="true">↗</span></a> : <button onClick={() => setSelected(member)} aria-haspopup="dialog" aria-label={`Inspect ${member.name} locked archive`}>COMING EVENTUALLY<span aria-hidden="true">＋</span></button>}
               </article>
             ))}</div>
           </section>
